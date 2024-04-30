@@ -1,2 +1,2 @@
 
-sdss wededewc =widhcidchihckc
+sdss.wededewc =widhcidchihckc
